@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Cursos\\BootCamp\\Impulso fullstack Web Developer\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\projeto\\projeto.csproj": {}
+    "/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/projeto.csproj": {}
   },
   "projects": {
-    "F:\\Cursos\\BootCamp\\Impulso fullstack Web Developer\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\projeto\\projeto.csproj": {
+    "/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cursos\\BootCamp\\Impulso fullstack Web Developer\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\projeto\\projeto.csproj",
+        "projectUniqueName": "/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/projeto.csproj",
         "projectName": "projeto",
-        "projectPath": "F:\\Cursos\\BootCamp\\Impulso fullstack Web Developer\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\projeto\\projeto.csproj",
-        "packagesPath": "C:\\Users\\yurys\\.nuget\\packages\\",
-        "outputPath": "F:\\Cursos\\BootCamp\\Impulso fullstack Web Developer\\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\\projeto\\obj\\",
+        "projectPath": "/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/projeto.csproj",
+        "packagesPath": "/home/objetivounip/.nuget/packages/",
+        "outputPath": "/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yurys\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/objetivounip/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }

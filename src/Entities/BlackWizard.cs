@@ -1,9 +1,8 @@
 namespace projeto.src.Entities
 {
-    public class Wizard : Hero
+    public class BlackWizard : Hero
     {
-
-        public Wizard(string Name, int Level, string Herotype)
+        public BlackWizard(string Name, int Level, string Herotype)
         {
             this.Name = Name;
             this.Level = Level;
@@ -16,9 +15,9 @@ namespace projeto.src.Entities
         public string Attack(int Bonus){
         
             if(Bonus > 6){
-                return this.Name + " Lançou Magia super efetiva com bonus de " + Bonus;
+                return this.Name + " Lançou Magia super efetiva de fogo " + Bonus;
             }else{
-                return this.Name + " Lançou uma magia com força fraca com bonus de " + Bonus;
+                return this.Name + " Lançou uma magia fraca de fogo " + Bonus;
             }
             
         }

@@ -1,15 +1,30 @@
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\bin\Debug\net6.0\projeto.exe
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\bin\Debug\net6.0\projeto.deps.json
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\bin\Debug\net6.0\projeto.dll
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\bin\Debug\net6.0\projeto.pdb
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\projeto.dll
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\refint\projeto.dll
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\projeto.pdb
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
-F:\Cursos\BootCamp\Impulso fullstack Web Developer\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\projeto\obj\Debug\net6.0\ref\projeto.dll
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/bin/Debug/net6.0/projeto.exe
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/bin/Debug/net6.0/projeto.deps.json
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/bin/Debug/net6.0/projeto.runtimeconfig.json
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/bin/Debug/net6.0/projeto.dll
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/bin/Debug/net6.0/projeto.pdb
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/projeto.csproj.AssemblyReference.cache
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/projeto.GeneratedMSBuildEditorConfig.editorconfig
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/projeto.AssemblyInfoInputs.cache
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/projeto.AssemblyInfo.cs
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/projeto.csproj.CoreCompileInputs.cache
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/projeto.dll
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/refint/projeto.dll
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/projeto.pdb
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/projeto.genruntimeconfig.cache
+F:/Cursos/BootCamp/Impulso fullstack Web Developer/Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/projeto/obj/Debug/net6.0/ref/projeto.dll
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/bin/Debug/net6.0/projeto
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/bin/Debug/net6.0/projeto.deps.json
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/bin/Debug/net6.0/projeto.runtimeconfig.json
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/bin/Debug/net6.0/projeto.dll
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/bin/Debug/net6.0/projeto.pdb
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/projeto.csproj.AssemblyReference.cache
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/projeto.AssemblyInfoInputs.cache
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/projeto.AssemblyInfo.cs
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/projeto.csproj.CoreCompileInputs.cache
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/projeto.dll
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/refint/projeto.dll
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/projeto.pdb
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/projeto.genruntimeconfig.cache
+/home/objetivounip/Documentos/projeto_Personagens_-de_RPG_usando_POO/obj/Debug/net6.0/ref/projeto.dll
