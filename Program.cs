@@ -6,11 +6,12 @@ namespace projeto{
     {
         static void Main(string [] args)
         {
-            Knight hero = new Knight("Arus", 23, "Knight");
-            WhiteWizard wizard = new WhiteWizard("Jennica", 23, "White Wizard");           
+            Knight knight = new Knight("Arus", 23);
+            Ninja ninja = new Ninja("Wedge", 25);
+            WhiteWizard whwizard = new WhiteWizard("Jennica", 23);  
+            BlackWizard bwizard = new BlackWizard("Topapa", 30);         
             
-            Console.WriteLine(wizard.Attack(1));
-            Console.WriteLine(wizard.Attack(7));
+            Console.WriteLine(knight.HeroType);
 
         }
     }

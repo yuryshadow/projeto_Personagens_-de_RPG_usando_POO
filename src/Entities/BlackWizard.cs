@@ -2,11 +2,11 @@ namespace projeto.src.Entities
 {
     public class BlackWizard : Hero
     {
-        public BlackWizard(string Name, int Level, string Herotype)
+        public BlackWizard(string Name, int Level)
         {
             this.Name = Name;
             this.Level = Level;
-            this.HeroType = Herotype;
+            this.HeroType = "BlackWizard";
         }
         public override string Attack(){
             return this.Name + " Lançou Magia";
